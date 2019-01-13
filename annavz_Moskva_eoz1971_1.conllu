@@ -1,0 +1,232 @@
+
+# sent_id = 85
+# text = @eoz@
+1	@eoz@	@eoz@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# sent_id = 86
+# text = Несмотря на то что у меня уже как бы высшая категория, врачи, все, всех направлений, они-и каждые пять лет подтверждают...
+1	Несмотря	несмотря	ADV	_	Polarity=Neg	3	case	_	_
+2	на	на	ADP	_	_	1	fixed	_	_
+3	то	то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	26	obl	_	_
+4	что	что	SCONJ	_	_	11	mark	_	_
+5	у	у	ADP	_	_	6	case	_	_
+6	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1	11	nmod	_	_
+7	уже	уже	ADV	_	Degree=Pos	11	obl	_	_
+8	как	как	ADV	_	Degree=Pos	11	obl	_	_
+9	бы	бы	PART	_	_	8	fixed	_	_
+10	высшая	высший	ADJ	_	Case=Nom|Degree=Sup|Gender=Fem|Number=Sing	11	amod	_	_
+11	категория	категория	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	acl	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	3	punct	_	_
+13	врачи	врач	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	26	nsubj	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	15	punct	_	_
+15	все	весь	DET	_	Case=Nom|Number=Plur	13	conj	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	18	punct	_	_
+17	всех	весь	DET	_	Case=Gen|Number=Plur	18	det	_	_
+18	направлений	направление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	13	conj	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	26	punct	_	_
+!20	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	26	nsubj	_	SpaceAfter=No
+21	-	-	PUNCT	_	_	20	punct	_	SpaceAfter=No
+22	и	и	CCONJ	_	_	25	cc	_	_
+23	каждые	каждый	DET	_	Case=Acc|Number=Plur	24	det	_	_
+24	пять	пять	NUM	_	Case=Acc	25	nummod:gov	_	_
+25	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	26	obl	_	_
+26	подтверждают	подтверждать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	26	punct	_	SpaceAfter=No
+28	.	.	PUNCT	_	_	26	punct	_	SpaceAfter=No
+29	.	.	PUNCT	_	_	26	punct	_	SpacesAfter=\n\n
+
+# sent_id = 87
+# text = @eoz@
+1	@eoz@	@eoz@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# sent_id = 88
+# text = кхм...
+!1	кхм.	кхм	INTJ	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n\n
+
+# sent_id = 89
+# text = @eoz@
+1	@eoz@	@eoz@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# sent_id = 90
+# text = тщ...
+!1	тщ.	тщ.	PROPN	_	Animacy=Anim|Case=Dat|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n\n
+
+# sent_id = 91
+# text = @eoz@
+1	@eoz@	@eoz@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# sent_id = 92
+# text = проходят сначала сертификационный цикл, который длится где-то двести двадцать часов.
+1	проходят	проходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	сначала	сначала	ADV	_	Degree=Pos	1	advmod	_	_
+3	сертификационный	сертификационный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+4	цикл	цикл	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1	obj	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	который	который	PRON	_	Case=Nom	7	nsubj	_	_
+7	длится	длиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	4	acl:relcl	_	_
+8	где-то	где-то	ADV	_	Degree=Pos	9	advmod	_	_
+9	двести	двести	NUM	_	Case=Nom	10	nummod:gov	_	_
+10	двадцать	двадцать	NUM	_	Case=Nom	11	nummod:gov	_	_
+11	часов	час	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	7	obl	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n\n
+
+# sent_id = 93
+# text = @eoz@
+1	@eoz@	@eoz@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# sent_id = 94
+# text = То есть около месяца выделяется на это.
+1	То	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	mark	_	_
+2	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	fixed	_	_
+3	около	около	ADP	_	_	4	case	_	_
+4	месяца	месяц	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	obl	_	_
+5	выделяется	выделяться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+6	на	на	ADP	_	_	7	case	_	_
+7	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	obl	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n\n
+
+# sent_id = 95
+# text = @eoz@
+1	@eoz@	@eoz@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# sent_id = 96
+# text = Мы слушаем лекции, прак-практические занятия как бы проходят, есть сейчас, создали симуляционный центр, вот я скоро идуна учебу, и как бы в этом центре я ни разу еще не была, но очень интересно, то есть там различные ситуации разрабатываются, муляжи-и, все как должно бы-ыть.
+1	Мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	2	nsubj	_	_
+2	слушаем	слушать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	лекции	лекция	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	2	obj	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	10	punct	_	_
+!5	прак	прак	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	10	advmod	_	SpaceAfter=No
+6	-практические	-практический	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	7	amod	_	_
+7	занятия	занятие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	10	obj	_	_
+8	как	как	ADV	_	Degree=Pos	10	advmod	_	_
+9	бы	бы	PART	_	_	8	fixed	_	_
+10	проходят	проходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl:relcl	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	conj	_	_
+13	сейчас	сейчас	ADV	_	Degree=Pos	12	advmod	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	15	punct	_	_
+15	создали	создать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	10	conj	_	_
+16	симуляционный	симуляционный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	_
+17	центр	центр	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	15	obj	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	40	punct	_	_
+19	вот	вот	PART	_	_	40	advmod	_	_
+20	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	40	nsubj	_	_
+21	скоро	скоро	ADV	_	Degree=Pos	40	obl	_	_
+!22	идуна	идуный	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	40	obl	_	_
+23	учебу	учеба	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	40	obl	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	30	punct	_	_
+25	и	и	CCONJ	_	_	30	cc	_	_
+26	как	как	ADV	_	Degree=Pos	30	obl	_	_
+27	бы	бы	PART	_	_	26	fixed	_	_
+28	в	в	ADP	_	_	30	case	_	_
+29	этом	этот	DET	_	Case=Loc|Gender=Masc|Number=Sing	30	det	_	_
+30	центре	центр	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	23	conj	_	_
+31	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	40	nsubj	_	_
+32	ни	ни	PART	_	Polarity=Neg	40	advmod	_	_
+33	разу	раз	NOUN	_	Animacy=Inan|Case=Par|Gender=Masc|Number=Sing	32	fixed	_	_
+34	еще	еще	ADV	_	Degree=Pos	40	obl	_	_
+35	не	не	PART	_	_	40	advmod	_	_
+36	была	быть	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	40	cop	_	SpaceAfter=No
+37	,	,	PUNCT	_	_	40	punct	_	_
+38	но	но	CCONJ	_	_	40	cc	_	_
+39	очень	очень	ADV	_	Degree=Pos	40	obl	_	_
+40	интересно	интересно	PRAEDIC	_	2	conj	_	SpaceAfter=No
+41	,	,	PUNCT	_	_	47	punct	_	_
+42	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	47	mark	_	_
+43	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	42	fixed	_	_
+44	там	там	ADV	_	Degree=Pos	47	advmod	_	_
+45	различные	различный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	46	amod	_	_
+46	ситуации	ситуация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	47	nsubj:pass	_	_
+47	разрабатываются	разрабатывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	40	parataxis	_	SpaceAfter=No
+48	,	,	PUNCT	_	_	54	punct	_	_
+!49	муляжи-	муляжи-	PUNCT	_	_	54	punct	_	SpaceAfter=No
+50	и	и	CCONJ	_	_	54	cc	_	SpaceAfter=No
+51	,	,	PUNCT	_	_	54	punct	_	_
+52	все	все	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	54	nsubj	_	_
+53	как	как	SCONJ	_	_	54	mark	_	_
+54	должно	должно	PRAEDIC	_	47	parataxis	_	_
+55	бы-ыть	бы-ыть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	54	cop	_	SpaceAfter=No
+56	.	.	PUNCT	_	_	40	punct	_	SpacesAfter=\n\n
+
+# sent_id = 97
+# text = @eoz@
+1	@eoz@	@eoz@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# sent_id = 98
+# text = Да, то есть и интубировать, и в вену попадать, и-и там вот включил ремстол, сразу там включаешь время, все по секундам, вот это вот очень мне хочется, конечно, это попробовать пройти, потому что в родблоке я сейчас работаю не очень часто, и как бы эти навыки, они забываются.
+1	Да	да	PART	_	_	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	6	punct	_	_
+3	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	6	mark	_	_
+4	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	fixed	_	_
+5	и	и	CCONJ	_	_	6	cc	_	_
+6	интубировать	интубировать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1	parataxis	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	и	и	CCONJ	_	_	11	cc	_	_
+9	в	в	ADP	_	_	10	case	_	_
+10	вену	вена	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	11	obl	_	_
+11	попадать	попадать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	6	conj	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	18	punct	_	_
+!13	и	и	CCONJ	_	_	18	cc	_	SpaceAfter=No
+14	-	-	PUNCT	_	_	13	punct	_	SpaceAfter=No
+15	и	и	CCONJ	_	_	18	cc	_	_
+16	там	там	ADV	_	Degree=Pos	18	advmod	_	_
+17	вот	вот	PART	_	_	18	advmod	_	_
+18	включил	включить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	11	conj	_	_
+19	ремстол	ремстол	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	18	obj	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	23	punct	_	_
+21	сразу	сразу	ADV	_	Degree=Pos	23	advmod	_	_
+22	там	там	ADV	_	Degree=Pos	23	advmod	_	_
+23	включаешь	включать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	18	conj	_	_
+24	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	23	obj	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	28	punct	_	_
+26	все	все	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	28	nsubj	_	_
+27	по	по	ADP	_	_	28	case	_	_
+28	секундам	секунда	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	18	conj	_	SpaceAfter=No
+29	,	,	PUNCT	_	_	35	punct	_	_
+30	вот	вот	PART	_	_	35	advmod	_	_
+31	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	35	nsubj	_	_
+32	вот	вот	PART	_	_	33	advmod	_	_
+33	очень	очень	ADV	_	Degree=Pos	35	advmod	_	_
+34	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	35	iobj	_	_
+35	хочется	хотеться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	18	conj	_	SpaceAfter=No
+36	,	,	PUNCT	_	_	37	punct	_	_
+37	конечно	конечно	PARENTH	_	Degree=Pos	40	parataxis	_	SpaceAfter=No
+38	,	,	PUNCT	_	_	37	punct	_	_
+39	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	41	obj	_	_
+40	попробовать	пробовать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	18	xcomp	_	_
+41	пройти	пройти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	40	xcomp	_	SpaceAfter=No
+42	,	,	PUNCT	_	_	49	punct	_	_
+43	потому	потому	ADV	_	Degree=Pos	49	mark	_	_
+44	что	что	SCONJ	_	_	43	fixed	_	_
+45	в	в	ADP	_	_	46	case	_	_
+46	родблоке	родблок	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	49	obl	_	_
+47	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	49	nsubj	_	_
+48	сейчас	сейчас	ADV	_	Degree=Pos	49	advmod	_	_
+49	работаю	работать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	40	advcl	_	_
+50	не	не	PART	_	_	51	advmod	_	_
+51	очень	очень	ADV	_	Degree=Pos	52	advmod	_	_
+52	часто	часто	ADV	_	Degree=Pos	49	advmod	_	SpaceAfter=No
+53	,	,	PUNCT	_	_	58	punct	_	_
+54	и	и	CCONJ	_	_	58	cc	_	_
+55	как	как	ADV	_	Degree=Pos	58	obl	_	_
+56	бы	бы	PART	_	_	55	fixed	_	_
+57	эти	этот	DET	_	Case=Nom|Number=Plur	58	det	_	_
+58	навыки	навык	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	49	conj	_	SpaceAfter=No
+59	,	,	PUNCT	_	_	61	punct	_	_
+60	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	61	nsubj	_	_
+61	забываются	забывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	49	conj	_	SpaceAfter=No
+62	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n\n
+
+# sent_id = 99
+# text = @eoz@
+1	@eoz@	@eoz@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# sent_id = 100
+# text = Вот.
+1	Вот	вот	PART	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n\n
+
